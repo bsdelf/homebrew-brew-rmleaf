@@ -1,8 +1,8 @@
 class BrewRmleaf < Formula
   desc "Interactive utility for orphan formula removal"
   homepage "https://github.com/bsdelf/brew-rmleaf"
-  url "https://github.com/bsdelf/brew-rmleaf/archive/v0.4.3.tar.gz"
-  sha256 "afff3e638239e79c35e6719fe647617239c60a5cf7e33a631fd59d7970dacd42"
+  url "https://github.com/bsdelf/brew-rmleaf/archive/v0.4.4.tar.gz"
+  sha256 "e5e5d19b42ff263472da14f8bb7d076e8db06da7f38ecd5f05c98a993b966874"
   depends_on "dialog"
 
   def install
